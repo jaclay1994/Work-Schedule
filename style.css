@@ -4,14 +4,7 @@ body {
   line-height: 1;
 }
 
-textarea{
-  background: transparent;
-  border: none;
-  resize: none;
-  color: #000000;
-  border-left: 1px solid black;
-  padding: 10px;
-}
+
 
 .jumbotron {
   text-align: center;
@@ -56,6 +49,17 @@ textarea{
   background-color: #77dd77;
   color: white;
 }
+
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
 
 .saveBtn {
   border-left: 1px solid black;
